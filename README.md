@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1603445312
 - 👀 I’m interested in fullstack
-- 🌱 I’m currently learning React font-end
+- 🌱 I’m currently learning React front-end
 
 <!---
 1603445312/1603445312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
